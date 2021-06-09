@@ -4,6 +4,7 @@ Di program ini terdapat beberapa penyelesaian untuk Knapsack Problem, antara lai
 Contoh Permasalahan yang ingin dipecahkan sebagai berikut :
 
 Berat/weight benda = {100, 50, 45, 20, 10, 5}
+
 Nilai kegunaan/values benda= {40, 35, 18, 4, 10, 2}
 
 Dari berbagai benda diatas kita harus menentukan barang terbaik apa yang harus kita bawa/ambil dengan maksimal berat yang dapat dibawa adalah 160
