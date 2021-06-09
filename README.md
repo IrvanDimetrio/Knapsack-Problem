@@ -16,7 +16,7 @@ Dengan output sebagai berikut :
 
 # 2. Knapsack Back (Knapsack_back.java)
 Dengan output sebagai berikut :
-## Gambar 1
+### Gambar 1
 ![image](https://user-images.githubusercontent.com/52452132/121338396-aac79680-c947-11eb-961e-2d15ece80703.png)
 ## Gambar 2
 ![image](https://user-images.githubusercontent.com/52452132/121338477-bd41d000-c947-11eb-86dd-f8edebd88f1c.png)
