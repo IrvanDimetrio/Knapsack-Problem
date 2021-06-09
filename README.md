@@ -10,5 +10,6 @@ Dari berbagai benda diatas kita harus menentukan barang terbaik apa yang harus k
 
 # 1. Knapsack secara umum atau biasa (Knapsack.java)
 Dengan output sebagai berikut :
+
 ![image](https://user-images.githubusercontent.com/52452132/121336067-5d4a2a00-c945-11eb-8436-77adbf856dda.png)
 
