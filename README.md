@@ -22,4 +22,11 @@ Dengan output sebagai berikut :
 ![image](https://user-images.githubusercontent.com/52452132/121338691-f11cf580-c947-11eb-80c6-e2d2fc844012.png)
 
 ## 3. Knapsack Branch and Bound (Knapsack_branch_and_bound.java)
+Dengan output sebagai berikut :
+
 ![image](https://user-images.githubusercontent.com/52452132/121340082-6210dd00-c949-11eb-86ef-74ff6195a56b.png)
+
+## 4. Knapsack Dynamic Programming (Knapsack_dp.java)
+Dengan output sebagai berikut :
+
+![image](https://user-images.githubusercontent.com/52452132/121340331-b2883a80-c949-11eb-8e59-8721e7ab32e8.png)
