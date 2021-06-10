@@ -34,9 +34,6 @@ public class knapsack_dp {
         System.out.println("");
     }
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
         int P[] = new int[]{0, 40, 35, 18, 4, 10, 2};
